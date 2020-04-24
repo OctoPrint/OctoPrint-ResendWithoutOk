@@ -1,3 +1,5 @@
+> ✋ **Provided as is, no support, no maintenance**
+
 # OctoPrint-ResendWithoutOk
 
 This plugin add support for firmwares that do not send an `ok` after
